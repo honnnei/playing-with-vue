@@ -1,5 +1,3 @@
-# learnngvue
-
 Decided to explore some alternatives to React JS so followed this crash course on Vue :) 
 https://www.youtube.com/watch?v=Wy9q22isx3U
 
